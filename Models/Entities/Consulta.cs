@@ -1,6 +1,6 @@
 ﻿using WebApplication4.Models.Enums;
 
-namespace WebApplication4.Models.Entities
+ namespace WebApplication4.Models.Entities
 {
     public class Consulta
     {
